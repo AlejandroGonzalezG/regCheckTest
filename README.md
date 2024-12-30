@@ -14,4 +14,4 @@ In addition, you can access to the containers with
 
 ``` docker exec -it mongo bash ```
 
-For example, to enter in the container and do mongoosh to see the data in the mongoDB container.
+For example, to enter in the container and do ``` mongoosh ``` to see the data in the mongoDB container.
